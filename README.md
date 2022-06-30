@@ -28,5 +28,5 @@ It should be possible to enable the GPU in Google Colab with: `Runtime > Change 
 
 ## User input
 
-We have two versions of each notebook. One should be complete and run without any modifications. The other has gaps that asks the user to enter their own solution. The answers are hidden in a collapsable text box. Feel free to rely on these as much as necessary, but you will get the most of the experience if you think it through or search the internet prior to displaying the results.
+We have two versions of each notebook. One should be complete and run without any modifications. The other has gaps that asks the user to enter their own solution. The answers are hidden in a collapsible text box. Feel free to rely on these as much as necessary, but you will get the most of the experience if you think it through or search the internet prior to displaying the results.
 
