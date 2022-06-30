@@ -15,7 +15,7 @@ For the sake of quick training, we will focus on 2D slices from this dataset, bu
 - Challenge: Complex and heterogeneously-located targets
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/33289025/176657680-160df1f2-fec7-4026-a4ef-b77d4e19b8b6.png" alt="Example of Decathlon brain tumour image" width="200" >
+  <img src="figs/decathlon_brain_tumour_2d.png" alt="Example of Decathlon brain tumour image" width="200" >
 </p>
 
 ## Running the notebooks
