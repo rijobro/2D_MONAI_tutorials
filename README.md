@@ -39,7 +39,11 @@ The folders `image_tumour` and `image_healthy` will be used for the classificati
 
 Aside from gaps left intentionally for user input, notebooks should be able to run as-is. They start by checking that MONAI is installed, and install it if necessary (plus any extra dependencies). The notebooks should be able to run in Google Colab, which allows users to access a GPU free of charge.
 
+To open these notebooks in Google Colab, you can either navigate there and then copy and paste this repository's URL, or you can click the blue "Open in Colab" button that is in the first cell of each notebook.
+
 It should be possible to enable the GPU in Google Colab with: `Runtime > Change runtime type > Hardware accelerator > GPU`.
+
+
 
 ## User input
 
