@@ -1,6 +1,6 @@
-# GliMR MONAI workshop notebooks
+# 2D MONAI tutorial notebooks
 
-This repository is for MONAI notebooks that will be used for the GliMR workshop.
+This repository is for simple notebooks that demonstrate MONAI through 2D classification and segmentation.
 
 ## Notebook contents
 
